@@ -51,6 +51,4 @@ Feedback is always appreciated, either through GitHub issues or the [Statbotics 
 
 If you are interested in contributing, please reach out to me directly through any platform (GitHub, Email, ChiefDelphi, etc.)
 
-I (Abhijit Gupta) currently front the cloud hosting costs for Statbotics. If you are able and interested, feel free to pitch in using [this link](https://www.buymeacoffee.com/statbotics).
-
 Thanks for your interest!
